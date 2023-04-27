@@ -15,7 +15,7 @@ function App() {
     equipo: "Front End",
     foto: "https://github.com/GabMejia24.png",
     nombre: "Gabriel Mejia",
-    puesto: "Instructor",
+    puesto: "programador e instructor",
     fav: true
   },
   {
