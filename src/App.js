@@ -34,14 +34,7 @@ function App() {
     puesto: "Instructora en Alura Latam",
     fav: false
   },
-  {
-    id: uuid(),
-    equipo: "Programación",
-    foto: "https://github.com/christianpva.png",
-    nombre: "Christian Velasco",
-    puesto: "Head de Alura e Instructor",
-    fav: false
-  },
+  
   {
     id: uuid(),
     equipo: "Innovación y Gestión",
