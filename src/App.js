@@ -23,7 +23,7 @@ function App() {
     equipo: "Ciberseguridad",
     foto: "https://github.com/jamielsp.png",
     nombre: "Jamiel Santana",
-    puesto: "Team leader e instructor",
+    puesto: "instructor",
     fav: false
   },
   {
