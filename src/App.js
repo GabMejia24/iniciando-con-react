@@ -20,7 +20,7 @@ function App() {
   },
   {
     id: uuid(),
-    equipo: "Ciberseguridad",
+    equipo: "Programador",
     foto: "https://github.com/jamielsp.png",
     nombre: "Jamiel Santana",
     puesto: "instructor",
