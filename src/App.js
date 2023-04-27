@@ -21,7 +21,7 @@ function App() {
   {
     id: uuid(),
     equipo: "Programación",
-    foto: "https://github.com/jamielsp",
+    foto: "https://github.com/jamielsp.png",
     nombre: "Jamiel Santana",
     puesto: "instructor",
     fav: false
